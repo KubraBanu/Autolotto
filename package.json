@@ -1,0 +1,17 @@
+{
+  "name": "autolotto",
+  "version": "1.0.0",
+  "description": "AutoLotto - Blockchain-based Decentralized Lottery System",
+  "scripts": {
+    "test": "npx hardhat test",
+    "deploy:sepolia": "npx hardhat run scripts/deploy.js --network sepolia",
+    "compile": "npx hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
