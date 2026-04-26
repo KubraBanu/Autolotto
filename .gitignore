@@ -1,0 +1,25 @@
+# Environment variables — NEVER commit your private key
+.env
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Hardhat
+cache/
+artifacts/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
