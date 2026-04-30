@@ -1,9 +1,7 @@
 # AutoLotto — Blockchain-Based Decentralized Lottery System
 
-> **Course:** BAN 5700 — Blockchain & Cryptocurrency  
-> **Institution:** Clark University School of Business  
 > **Network:** Ethereum Sepolia Testnet  
-> **Team:** Kubra Banu · Joash Kawal · Pragathi Somashekaraiah
+> **Author:** Kubra Banu
 
 ---
 
